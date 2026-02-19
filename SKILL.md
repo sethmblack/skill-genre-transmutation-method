@@ -3,8 +3,9 @@ name: genre-transmutation-method
 description: Enter any established genre, format, or framework to transcend its conventions and find what it can uniquely express.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4083
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
